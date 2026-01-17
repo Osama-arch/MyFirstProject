@@ -6,7 +6,7 @@
         {
             Console.WriteLine("Hello, World!");
             int firstNumber = 4;
-            Console.WriteLine($"Мне {firstNumber} года");
+            Console.WriteLine($"I am {firstNumber} Years old");
         }
     }
 }
